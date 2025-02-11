@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for MyApp</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            margin: 20px auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            font-size: 1.1em;
+            color: #555;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy for MyApp</h1>
+
+    <p>Effective Date: February 11, 2025</p>
+
+    <h2>Introduction</h2>
+    <p>Welcome to MyApp ("we", "our", "us"). We are committed to protecting your privacy and ensuring transparency regarding how we handle your personal data. This privacy policy outlines the types of information we collect, how it is used, and how we protect it.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>We collect the following types of information when you use MyApp:</p>
+    <ul>
+        <li><strong>Personal Identification Information:</strong> This includes information such as your name, email address, and phone number that you provide when you create an account or interact with the app.</li>
+        <li><strong>Device Information:</strong> We collect information about the device you are using, including the model, operating system version, and unique identifiers such as your device ID.</li>
+        <li><strong>Usage Data:</strong> We collect data on how you use the app, including features you interact with, app performance, and error logs. This helps us improve the app's functionality and user experience.</li>
+    </ul>
+
+    <h2>2. How We Use Your Information</h2>
+    <p>Your information is used for the following purposes:</p>
+    <ul>
+        <li><strong>Improving the App:</strong> We use your data to enhance the functionality of MyApp, fix bugs, and optimize performance.</li>
+        <li><strong>Providing Customer Support:</strong> We may use your contact information to respond to inquiries, provide assistance, and resolve issues you may encounter with the app.</li>
+        <li><strong>Communication:</strong> We may send you updates, promotional content, or important notifications regarding the app, provided you have consented to receive them.</li>
+        <li><strong>Security:</strong> Your information helps us protect your account and the app from unauthorized access and malicious activities.</li>
+    </ul>
+
+    <h2>3. Data Sharing and Disclosure</h2>
+    <p>We do not sell, trade, or otherwise transfer your personal information to outside parties unless we have your consent or it is required by law. We may share your information with trusted third-party service providers who help us operate the app and deliver services to you, such as hosting providers or customer support platforms. These third parties are obligated to maintain the confidentiality of your information and are not permitted to use it for their own purposes.</p>
+
+    <h2>4. Children’s Privacy</h2>
+    <p>We do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and believe that we have collected personal information from a child under 13, please contact us immediately, and we will take steps to remove such information from our records.</p>
+    <p>If your app targets children under 13, we recommend you review the <a href="https://support.google.com/googleplay/android-developer/answer/9878836" target="_blank">User Data Policy</a> to avoid common violations.</p>
+
+    <h2>5. Security of Your Information</h2>
+    <p>We take the security of your personal data seriously and have implemented various security measures to protect your information. These measures include encryption, secure access controls, and regular security audits. However, please note that no method of data transmission over the Internet or method of electronic storage is 100% secure, and we cannot guarantee absolute security.</p>
+
+    <h2>6. Changes to This Privacy Policy</h2>
+    <p>We may update this privacy policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any changes to this policy will be posted on this page with the updated effective date. We encourage you to review this policy periodically to stay informed about how we are protecting your data.</p>
+
+    <h2>7. Contact Us</h2>
+    <p>If you have any questions or concerns about this privacy policy, or if you would like to request access to or deletion of your personal information, please contact us at:</p>
+    <p>Email: support@myapp.com</p>
+    <p>Phone: +1-800-123-4567</p>
+    <p>Address: 123 App Street, Suite 101, City, State, ZIP</p>
+</div>
+
+<div class="footer">
+    <p>For more information about our privacy practices, please review this policy regularly.</p>
+</div>
+
+</body>
+</html>
