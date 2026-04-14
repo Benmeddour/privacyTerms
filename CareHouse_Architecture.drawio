@@ -75,7 +75,7 @@
         </mxCell>
 
         <mxCell id="service_5004" value="Port 5004&#10;File Service" style="rounded=1;fillColor=#4DB6AC;strokeColor=#00695C;fontSize=10;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="680" y="100" width="60" height="45" as="geometry" />
+          <mxGeometry x="660" y="100" width="60" height="45" as="geometry" />
         </mxCell>
 
         <mxCell id="service_5005" value="Port 5005&#10;Reports" style="rounded=1;fillColor=#4DB6AC;strokeColor:#00695C;fontSize=10;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
@@ -96,11 +96,11 @@
           <mxGeometry x="420" y="420" width="310" height="180" as="geometry" />
         </mxCell>
 
-        <mxCell id="service_5007" value="Port 5007&#10;Staff Profiles" style="rounded=1;fillColor=#9CCC65;strokeColor#33691E;fontSize=10;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="service_5007" value="Port 5007&#10;Staff Profiles" style="rounded=1;fillColor=#9CCC65;strokeColor=#33691E;fontSize=10;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="70" height="50" as="geometry" />
         </mxCell>
 
-        <mxCell id="service_5008" value="Port 5008&#10;Absences" style="rounded=1;fillColor=#9CCC65;strokeColor:#33691E;fontSize=10;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="service_5008" value="Port 5008&#10;Absences" style="rounded=1;fillColor=#9CCC65;strokeColor=#33691E;fontSize=10;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="530" y="440" width="70" height="50" as="geometry" />
         </mxCell>
 
