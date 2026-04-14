@@ -28,7 +28,7 @@
         </mxCell>
 
         <!-- ============ GATEWAYS LAYER ============ -->
-        <mxCell id="gateways_group" value="API Gateways (Authentication & Routing)" style="rounded=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;strokeWidth=2;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="gateways_group" value="API Gateways (Authentication &amp; Routing)" style="rounded=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;strokeWidth=2;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="300" height="120" as="geometry" />
         </mxCell>
 
